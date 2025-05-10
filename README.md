@@ -8,3 +8,4 @@ helm install consul hashicorp/consul \
 --set global.name=consul \
 --set global.openshift.enabled=true
 ```
+![image](https://github.com/user-attachments/assets/abddced4-90be-46a1-ba95-03a4a3bafe02)
